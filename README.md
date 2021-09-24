@@ -1,2 +1,4 @@
 # Sibyl
-a simulator (R version)
+a test data generator (R version)
+
+
